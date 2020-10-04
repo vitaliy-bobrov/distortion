@@ -6,11 +6,11 @@ The repository contains KiCad source files: schematic, PCB, BOM.
 
 ## Schematic
 
-![](https://github.com/vitaliy-bobrov/distortion/blob/master/images/schematic.png)
+![](https://github.com/vitaliy-bobrov/distortion/blob/main/images/schematic.png)
 
 ## PCB (3D preview)
 
-![](https://github.com/vitaliy-bobrov/distortion/blob/master/images/ds.jpg)
+![](https://github.com/vitaliy-bobrov/distortion/blob/main/images/ds.jpg)
 
 ## Interactive BOM
 
